@@ -1,1 +1,1 @@
-# detect-emotion-by-text
+# Repository for final project
